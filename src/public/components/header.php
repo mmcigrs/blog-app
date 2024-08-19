@@ -10,6 +10,8 @@
         <div class="flex flex-col md:flex-row hidden md:block -mx-2">
           <a href="./index.php"
             class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2">ホーム</a>
+          <a href="./mypage.php"
+            class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2">マイページ</a>
           <a href="./user/logout.php"
             class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2">ログアウト</a>
         </div>
